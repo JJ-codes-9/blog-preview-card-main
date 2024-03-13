@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-solution-using-flex-41CBthGAr6)
+- Live Site URL: [Add live site URL here](https://jj-codes-9.github.io/blog-preview-card-main/)
 
 ## My process
 
